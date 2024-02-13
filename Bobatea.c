@@ -14,7 +14,7 @@ int num,line,qty;
 char lineofMenu[RSIZ][LSIZ];
 int arrayOfChoice[10];
 float total = 0, totalbal, recived=0,totalRecived;
-//test
+
 struct order
 {
 	int	qty;
